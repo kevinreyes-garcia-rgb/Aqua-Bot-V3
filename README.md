@@ -12,7 +12,7 @@
 ---
 
 > [!IMPORTANT]
-> **Estado del Proyecto:** 🛠️ En proceso de desarrollo (Beta). Estamos trabajando duro para añadir más funciones cada día.
+> **Estado del Proyecto:** 🛠️ En proceso de desarrollo (Version V3). Estamos trabajando duro para añadir más funciones cada día.
 > **Dato Inportante:** Este ChatBot tiene contenido NSFW usa el chatbot con cuidado y fuera de alcanse de menores. 
 
 ---
@@ -53,12 +53,11 @@ Como estamos en **fase de desarrollo**, esto es lo que viene pronto:
 <details>
    <summary>Instalacion</summary>
    
-[Link Directo](https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
-)
+[Link Directo](https://kg89.freedev.app)
 
 link escrito 
 ```
-https://kevinreyes-garcia-rgb.github.io/Aqua-Bot-V2/
+https://kg89.freedev.app
 ```
 
 </details>
