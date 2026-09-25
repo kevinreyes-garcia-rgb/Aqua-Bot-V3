@@ -53,11 +53,11 @@ Como estamos en **fase de desarrollo**, esto es lo que viene pronto:
 <details>
    <summary>Instalacion</summary>
    
-[Link Directo](https://kg89.freedev.app)
+[Link Directo](https://aquav3.wuaze.com)
 
 link escrito 
 ```
-https://kg89.freedev.app
+https://aquav3.wuaze.com
 ```
 
 </details>
